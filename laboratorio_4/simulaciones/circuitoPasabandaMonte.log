@@ -1,0 +1,64 @@
+LTspice 24.1.10 for Windows
+Circuit: Z:\home\jorge\Documentos\Laboratorios_SRA_Angeloff_Moyano\laboratorio_4\circuitoPasabandaMonte.net
+Start Time: Sat Oct 25 16:46:44 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+.step tol=-0.098
+.step tol=-0.094
+.step tol=-0.088
+.step tol=-0.077
+.step tol=-0.07
+.step tol=-0.065
+.step tol=-0.058
+.step tol=-0.046
+.step tol=-0.042
+.step tol=-0.031
+.step tol=-0.027
+.step tol=-0.015
+.step tol=-0.013
+.step tol=-0.005
+.step tol=0.003
+.step tol=0.004
+.step tol=0.01
+.step tol=0.017
+.step tol=0.028
+.step tol=0.034
+.step tol=0.046
+.step tol=0.051
+.step tol=0.057
+.step tol=0.063
+.step tol=0.071
+.step tol=0.072
+.step tol=0.08
+.step tol=0.089
+.step tol=0.093
+.step tol=0.099
+Total elapsed time: 5.607 seconds.
+
+Files loaded:
+Z:\home\jorge\Documentos\Laboratorios_SRA_Angeloff_Moyano\laboratorio_4\circuitoPasabandaMonte.net
+C:\users\jorge\AppData\Local\LTspice\lib\sub\LM324.lib
+
