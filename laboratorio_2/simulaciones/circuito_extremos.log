@@ -1,0 +1,15 @@
+LTspice 24.1.10 for Windows
+Circuit: Z:\home\jorge\Documentos\Laboratorios_SRA_Angeloff_Moyano\laboratorio_2\circuito_extremos.net
+Start Time: Thu Nov 13 12:40:04 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.104 seconds.
+
+Files loaded:
+Z:\home\jorge\Documentos\Laboratorios_SRA_Angeloff_Moyano\laboratorio_2\circuito_extremos.net
+C:\users\jorge\AppData\Local\LTspice\lib\sub\LM324.lib
+

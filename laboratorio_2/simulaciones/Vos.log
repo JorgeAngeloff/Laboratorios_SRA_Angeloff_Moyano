@@ -1,0 +1,8 @@
+LTspice 24.1.10 for Windows
+Circuit: Z:\home\jorge\Documentos\Laboratorios_SRA_Angeloff_Moyano\laboratorio_2\Vos.net
+Start Time: Tue Nov 11 10:42:30 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
